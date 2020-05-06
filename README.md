@@ -1,5 +1,5 @@
 # sweeney_clopath_2020
-Model code and data analysis scripts for paper "Population coupling predicts the plasticity of stimulus responses in cortical circuits", Sweeney and Clopath
+Model code and data analysis scripts for paper "Population coupling predicts the plasticity of stimulus responses in cortical circuits", Sweeney and Clopath http://dx.doi.org/10.7554/eLife.56053
 
 Uses python 2.7
 
